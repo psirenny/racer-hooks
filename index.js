@@ -100,4 +100,8 @@ module.exports = function (store) {
     }
     return curr;
   };
+
+  return function (req, res, next) {
+    return next();
+  }
 };
