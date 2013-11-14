@@ -15,8 +15,6 @@ In *"/lib/server/index.js":
 Usage
 -----
 
-    store.on('change', 'collection.*.property',
-      function (documentId, value) {
-        ...
-      }
-    );
+    store.on('change', 'collection.*.property', function (documentId, value) {
+      ...
+    });
