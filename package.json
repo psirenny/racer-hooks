@@ -1,0 +1,25 @@
+{
+  "author": "psirenny <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/racer-hooks/issues"
+  },
+  "description": "Add server side hooks to racer.",
+  "gitHead": "a11abc7c59e68bafe36d1872e1b0473136b89018",
+  "keywords": [
+    "derby",
+    "racer",
+    "hooks"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "racer-hooks",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/racer-hooks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0",
+}
