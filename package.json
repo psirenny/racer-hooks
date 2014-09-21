@@ -1,7 +1,10 @@
 {
-  "author": "psirenny <djtorres0@gmail.com>",
+  "author": "Dennis Torres <djtorres0@gmail.com>",
   "bugs": {
     "url": "https://github.com/psirenny/racer-hooks/issues"
+  },
+  "dependencies": {
+    "derby-hook": "0.0.4"
   },
   "description": "Add server side hooks to racer.",
   "gitHead": "a11abc7c59e68bafe36d1872e1b0473136b89018",
@@ -21,5 +24,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.0"
+  "version": "0.3.0"
 }
